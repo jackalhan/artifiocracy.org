@@ -1,4 +1,4 @@
-# 👀 Who are we?
+# 👥 Who are we?
 
 We are the people who are thinking deeply about forming a new form of government that is merging people and artificial intelligence using technology to derive the most coverage for any decision that is going to be taken.
 

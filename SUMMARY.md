@@ -4,13 +4,12 @@
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 Where do we start](overview/what-we-do.md)
 
-## Product Guides
+## ARTIFIOCRACY
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [📪 Prior to Artifiocracy](artifiocracy/prior-to-artifiocracy.md)
+* [📎 Understanding Projects](artifiocracy/understanding-projects.md)
 
 ## Fundamentals
 
@@ -23,6 +22,6 @@
 * [🎨 For Designers](use-cases/for-designers.md)
 * [🖥 For Developers](use-cases/for-developers.md)
 
-## 👥 Contributors
+## Contributors
 
-* [👀 Who are we?](contributors/who-are-we.md)
+* [👥 Who are we?](contributors/who-are-we.md)
