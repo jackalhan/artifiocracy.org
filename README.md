@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Artifiocracy** is not a new term but also a new form of government and management system that does not rely on electing representatives or parliament. Instead, it uses advanced technology and artificial intelligence to collect and analyze the opinions of each member of the community and derive a decision that reflects their collective will. The decision is then implemented by an executor who has to comply with it.
+**Artifiocracy** is not only a new term but also a new form of government and management system that does not rely on electing representatives or parliament. Instead, it uses advanced technology and artificial intelligence to collect and analyze the opinions of each member of the community and derive a decision that reflects their collective will. The decision is then implemented by an executor who has to comply with it.
 
 This system aims to overcome some of the limitations and challenges of traditional forms of democracy, such as low voter turnout, political polarization, corruption, lobbying, misinformation, etc. It also seeks to leverage the potential of artificial intelligence to enhance public policy objectives, service delivery, efficiency, transparency, accountability, and innovation
 
