@@ -14,14 +14,16 @@ We are living in a rapidly changing and complex world that poses new challenges 
 
 However, we acknowledge that building such a new system is not a simple or easy task. It requires a lot of careful thought, research, experimentation, feedback, and refinement. It also requires a lot of collaboration, participation, diversity, and inclusion. That is why we have decided to launch this open-source manifesto that invites everyone who is interested or concerned about this issue to contribute their ideas, opinions, suggestions, criticisms, or questions. We believe that crowdsourcing is the best way to harness the collective intelligence and wisdom of the people who will be affected by this new system. We believe that listening to each opinion attentively and respectfully and incorporating their contribution into our vision will help us create a more comprehensive and robust direction for the future.
 
+In this document, we are going to explain the details of Artifiocracy, the systems prior to Artifiocracy, their advantages, and disadvantages, why we need them, what are the blockers, why we need a new system, what is the new system, comparison the new system and prior systems, how to execute them, what are the technical details, what needs to be done, roles, uses cases where to start, etc.&#x20;
+
 Congratulations! You are about to embark on an exciting and amazing journey to a better future. A new era awaits you, us, and them, full of possibilities and opportunities. So sit back, relax, and enjoy the journey. We are here to draw the new era together. 😊 :clap:
 
 
 
 
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

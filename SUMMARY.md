@@ -2,14 +2,11 @@
 
 * [👋 Welcome to ARTIFIOCRACY](README.md)
 
-## Overview
-
-* [💡 Where do we start](overview/what-we-do.md)
-
 ## ARTIFIOCRACY
 
 * [📪 Prior to Artifiocracy](artifiocracy/prior-to-artifiocracy.md)
-* [📎 Understanding Projects](artifiocracy/understanding-projects.md)
+* [📎 What is ARTIFIOCRACY?](artifiocracy/understanding-projects.md)
+* [📎 Democracy vs Artifiocracy](artifiocracy/democracy-vs-artifiocracy.md)
 
 ## Fundamentals
 
