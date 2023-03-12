@@ -6,7 +6,7 @@ We are inviting new collaborators to grow Artifiocracy together.&#x20;
 
 <details>
 
-<summary><a href="https://www.linkedin.com/in/tolgahan/"><strong>Tolgahan Cakaloglu, Ph.D</strong>.</a> | <mark style="color:purple;"><strong>Founder</strong></mark></summary>
+<summary><a href="https://www.linkedin.com/in/tolgahan/"><strong>Tolgahan Cakaloglu, Ph.D</strong>.</a></summary>
 
 ![](../.gitbook/assets/tolgahan.png)
 
@@ -14,7 +14,7 @@ We are inviting new collaborators to grow Artifiocracy together.&#x20;
 
 <details>
 
-<summary><a href="https://www.linkedin.com/in/tolgahan/"><strong>Mehmet Kirazoglu</strong></a> | <mark style="color:purple;"><strong>Co-Founder</strong></mark></summary>
+<summary><a href="https://www.linkedin.com/in/tolgahan/"><strong>Mehmet Kirazoglu</strong></a></summary>
 
 ![](../.gitbook/assets/tolgahan.png)
 
